@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "st",
+      "author": "deepak"
+    }
+  ],
+  "comments": [
+    {
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
